@@ -1,1 +1,1 @@
-https://github.com/WilmsenTim/kdg-software-engineering-2015-2016.git
+https://github.com/WilmsenTim/Software-Engeneering
